@@ -1,0 +1,41 @@
+            
+    Eu am :
+             api/appointments/doctors/id
+             api/appointments/pacients/id
+
+                api/doctors/id/appointments
+                api/doctors/id/appointments/id
+
+                api/pacients/id/appointments
+                api/pacients/id/appointments/id
+
+    
+
+    1. Endpoints            
+                api/doctors/id/appointments
+                api/doctors/id/appointments/id
+
+                api/pacients/id/appointments
+                api/pacients/id/appointments/id
+
+
+               - 8 noiembrie mai am de facut ultimele 2 endpointuri.
+
+                api/doctors/id/pacients
+                api/pacients/id/doctors
+
+                ! Dont need appointments/id/doctors
+                ! Dont need appointments/id/pacients/id
+
+    2.DTOs 
+                Appointments Create/Delete -- dont want to update an appointment.
+
+    3.Names     
+
+    4.Profiles
+
+    5.Appointment "Contract"
+
+    6.Search/Filtre
+
+    7. "refference link" 
